@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">U2_controles_ej20_actividadCeckBoxyRadioGroup</string>
+    <string name="tv_primer_plato">Primer Plato:</string>
+    <string name="tv_segundo_plato">Segundo Plato:</string>
+    <string name="cb_sopa">Sopa</string>
+    <string name="cb_ensalada">Ensalada</string>
+    <string name="cb_nachos">Nachos</string>
+    <string name="cb_carne">Carne</string>
+    <string name="cb_pescado">Pescado</string>
+    <string name="tv_bebida">Bebida</string>
+    <string name="rb_si">con</string>
+    <string name="rb_no">sin</string>
+    <string name="btn_ver_pedido">Ver Pedido</string>
+</resources>
